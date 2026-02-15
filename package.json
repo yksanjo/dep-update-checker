@@ -1,0 +1,19 @@
+{
+  "name": "dep-update-checker",
+  "version": "1.0.0",
+  "description": "Check for outdated dependencies and available updates",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "check": "node src/cli.js check"
+  },
+  "keywords": ["update", "outdated", "dependencies", "npm"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.1.0",
+    "ora": "^7.0.1"
+  }
+}
