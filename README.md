@@ -1,5 +1,12 @@
 # dep-update-checker
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/dep-update-checker/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/dep-update-checker/actions)
+![License](https://img.shields.io/github/license/yksanjo/dep-update-checker)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/dep-update-checker)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/dep-update-checker)
+
 ## Detailed Description
 
 dep-update-checker is maintained as an industry-grade software project with production-ready engineering practices.  
